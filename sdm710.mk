@@ -345,6 +345,10 @@ PRODUCT_PACKAGES += \
     netutils-wrapper-1.0 \
     offload.o
 
+# Notch
+PRODUCT_PACKAGES += \
+    NotchBarKiller
+
 # OMX
 PRODUCT_PACKAGES += \
     libc2dcolorconvert \
