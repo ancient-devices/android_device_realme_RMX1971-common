@@ -172,6 +172,7 @@ PRODUCT_PACKAGES += \
     init.qcom.rc \
     init.qcom.usb.rc \
     init.target.rc \
+    logcat.rc \
     ueventd.qcom.rc
 
 # Display
