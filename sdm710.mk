@@ -148,6 +148,7 @@ PRODUCT_PACKAGES += \
 
 # Common init scripts
 PRODUCT_PACKAGES += \
+    apex_metadata.rc \
     init.class_late.sh \
     init.class_main.sh \
     init.crda.sh \
