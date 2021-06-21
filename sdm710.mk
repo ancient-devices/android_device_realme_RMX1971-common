@@ -421,10 +421,6 @@ PRODUCT_BOOT_JARS += \
 PRODUCT_PACKAGES += \
     TetheringConfigOverlay
 
-# TF lite
-PRODUCT_PACKAGES += \
-    libtflite
-
 # Thermal
 PRODUCT_PACKAGES += \
     android.hardware.thermal@2.0 \
