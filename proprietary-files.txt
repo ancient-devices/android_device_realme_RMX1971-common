@@ -564,10 +564,6 @@ vendor/firmware/a530_gpmu.fw2
 vendor/lib64/hw/vulkan.adreno.so|b609f79d6256f1ef7164facef16e5848f06b76c2
 vendor/lib/hw/vulkan.adreno.so|a92e75acd881b4c80e7cb157ed41cb599cdbcc03
 
-# Health
-vendor/bin/hw/android.hardware.health@2.0-service
-vendor/etc/init/android.hardware.health@2.0-service.rc
-
 # IO prefetcher - from LA.UM.9.8.r1-02700-SDM710.0
 vendor/lib64/libqti-iopd-client.so|9e7561634158cd01b037e740e51cb22cd1119e04
 vendor/lib64/vendor.qti.hardware.iop@1.0.so|dd98ed98c2e256610d29ff87125864f8d7fedbd8
