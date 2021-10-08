@@ -240,7 +240,7 @@ PRODUCT_PACKAGES += \
     android.hardware.drm@1.3-service.clearkey
 
 # Doze
-PRODUCT_PACKAGES += \
+#PRODUCT_PACKAGES += \
     KharaMeParts \
     KharaMeDirac
 
