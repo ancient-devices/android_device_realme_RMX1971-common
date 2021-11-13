@@ -1,6 +1,6 @@
 allow system_server hal_light_default:process signal;
 allow system_server sysfs:file { getattr };
-allow system_server sysfs_battery_supply:file read;
+allow system_server sysfs_battery_supply:file { read open };
 
 get_prop(system_server, vendor_display_notch_prop)
 
